@@ -1,0 +1,19 @@
+{
+  "name": "youtube_backend_project",
+  "version": "1.0.0",
+  "description": "A backend project in which we will handle the almost same backend of the youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "backend",
+    "express",
+    "mongodb",
+    "cloudinary"
+  ],
+  "author": "Ch Mubashar Ali",
+  "license": "ISC"
+}
